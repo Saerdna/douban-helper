@@ -1,0 +1,21 @@
+/**
+ * Copyright (c) 2011 The Chromium Authors. All rights reserved.
+ * Use of this source code is governed by a BSD-style license that can be
+ * found in the LICENSE file.
+ */
+
+body {
+  margin: 0px;
+  padding: 0px;
+  width: 512px;
+  height: 256px;
+}
+
+#map {
+  width: 512px;
+  height: 512px;
+}
+.ban_list td{font: 12px Helvetica,Arial,sans-serif;text-overflow:ellipsis; line-height: 1;}
+.url{font-size:13px;}
+.hide {visibility:hidden;}
+.title {width: 65px;color: #666;width: 120px;}
